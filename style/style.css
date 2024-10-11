@@ -2,9 +2,9 @@ h1{
     color: blue;
 }
 
-.hero{
+.hero img{
   
-height: 750px;
-width: 700px;
-background-image: url(../images/pexels-airamdphoto-20044319.jpg);
+height: 450px;
+width: 400px;
+/* background-image: url(../images/pexels-airamdphoto-20044319.jpg); */
 }
